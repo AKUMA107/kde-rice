@@ -1,1 +1,3 @@
-my KDE Debian Rice🍙
+Rice🍙
+ez to do
+dont forget to setup kvantum
