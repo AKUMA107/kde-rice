@@ -1,0 +1,28 @@
+{
+  "logo": {
+    "source": "/home/kingini_557/.config/fastfetch/senku-ascii.txt",
+    "type": "file"
+  },
+  "modules": [
+    "title",
+    "os",
+    "host",
+    "kernel",
+    "uptime",
+    "packages",
+    "shell",
+    "display",
+    "de",
+    "wm",
+    "theme",
+    "terminal",
+    "cpu",
+    "gpu",
+    "memory",
+    "colors"
+  ],
+  "separator": " → ",
+  "color": {
+    "keys": 201
+  }
+}
